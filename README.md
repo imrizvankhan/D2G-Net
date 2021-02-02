@@ -12,3 +12,12 @@ The dataset consists of almost 1300 images with ill-illumination conditions, arr
 Test and GT images: We presented evaluation on test images from our data set, whereas the dataset contains many sample images with reference images, and in each case, high exposure can act as a reference GT for the low exposure test image. We have presented the separate files for test and training data, where every scene has a separate folder with multiple exposures.
 
 Dataset-Link: The whole  training dataset, along with test images, is available at the following google drives link: https://drive.google.com/drive/u/1/folders/1uj8MGHWtRMbeuh8VZemmIv-wqUqVNdo6
+
+
+
+<image src= "FinalDatasetsample.png" width= 800>
+ 
+  <image src= "onlymodellow.png" width= 800>
+  
+   
+  <image src= "DepthofresidueMap.png" width= 500>
